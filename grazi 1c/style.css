@@ -1,0 +1,15 @@
+:root {
+--text-color: #DBE4EF;
+--card-back-color: #144480;
+--card-back-color: 00F4BF;
+}
+
+body {
+background: url('assets/bg-desktop.wepb')
+font-family: Bay Jamjuree;
+}
+
+
+#container{
+display: flex;
+}
